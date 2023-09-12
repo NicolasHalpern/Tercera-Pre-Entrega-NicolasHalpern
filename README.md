@@ -41,7 +41,7 @@ Para registarar nuevos Libros:App-Coder/FormularioLibros/
 Funciones para buscar algo en la BD:
 
 
-Para buscar Camada: App-Coder/BusquedaCamada/  Probar Camada= 912
+Para buscar Camada: App-Coder/BusquedaCamada/  ----------Probar Camada= 912
 
 
 
